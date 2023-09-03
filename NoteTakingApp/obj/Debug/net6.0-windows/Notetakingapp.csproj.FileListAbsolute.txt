@@ -1,0 +1,16 @@
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\bin\Debug\net6.0-windows\Notetakingapp.exe
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\bin\Debug\net6.0-windows\Notetakingapp.deps.json
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\bin\Debug\net6.0-windows\Notetakingapp.runtimeconfig.json
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\bin\Debug\net6.0-windows\Notetakingapp.dll
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\bin\Debug\net6.0-windows\Notetakingapp.pdb
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.NoteTaker.resources
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.csproj.GenerateResource.cache
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.AssemblyInfoInputs.cache
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.AssemblyInfo.cs
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.csproj.CoreCompileInputs.cache
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.dll
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\refint\Notetakingapp.dll
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.pdb
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\Notetakingapp.genruntimeconfig.cache
+C:\Users\OlaOl\source\repos\Notetakingapp\Notetakingapp\obj\Debug\net6.0-windows\ref\Notetakingapp.dll
